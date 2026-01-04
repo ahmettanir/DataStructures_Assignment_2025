@@ -1,7 +1,7 @@
 # Data Structures and Algorithms Assignments (2025-2026 Fall)
 
-**Student Name:** [BURAYA ADINI SOYADINI YAZ]
-**Student ID:** [BURAYA ÖĞRENCİ NUMARANI YAZ]
+**Student Name:** [Ahmet TANIR]
+**Student ID:** [2110206077]
 
 ## Assignment Contents
 1. Sparse Matrix Transformation
